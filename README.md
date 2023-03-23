@@ -17,3 +17,7 @@ Dddddddddd
 ## How to contribute
 
 Cccccccccccc
+
+### Copyright
+
+2014 Git.Training.
