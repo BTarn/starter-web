@@ -16,7 +16,7 @@ Dddddddddd
 
 ## How to contribute
 
-Cccccccccccc
+Please fork thisrepository and then issue Pull Requests for review.
 
 ### Copyright
 
