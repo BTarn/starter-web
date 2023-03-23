@@ -4,8 +4,8 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-    Tarn -- Player -- @bbtt
-
+    Tarn -- Coach -- @bbtt
+    B.Tarn -- Player -- @bbbttt
 # THANKS
 
     <name>
